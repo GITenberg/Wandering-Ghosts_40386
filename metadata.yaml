@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: 'Published in England under title: Uncanny tales.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40386#Wandering-Ghosts
 gutenberg_issued: '2012-08-01'
 gutenberg_type: Text
 identifiers:
