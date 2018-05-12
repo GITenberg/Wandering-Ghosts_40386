@@ -1,0 +1,33 @@
+_repo: Wandering-Ghosts_40386
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40386-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: 'Published in England under title: Uncanny tales.'
+gutenberg_issued: '2012-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: The dead smile -- The screaming skull -- Man overboard! -- For the
+  blood is the life -- The upper berth -- By the waters of paradise -- The doll's
+  ghost.
+title: Wandering Ghosts
+url: http://www.gutenberg.org/ebooks/40386
